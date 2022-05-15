@@ -1,4 +1,4 @@
-}### Clase de Funciones Lambdas
+### Clase de Funciones Lambdas
 
 Bootcamp Java Developer, clase 49, repaso de funciones lambdas
 1. Obtnemos el Stream de una collection
